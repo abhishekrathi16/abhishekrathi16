@@ -58,6 +58,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekrathi16&layout=compact&hide=matlab,Jupyter%20Notebook)](https://github.com/abhishekrathi16/netflix-clone)
 
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekrathi16&show_icons=true&theme=radical)
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekrathi16&show_icons=true&theme=synthwavecount_private=true)
 
 <!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishekrathi16) -->
