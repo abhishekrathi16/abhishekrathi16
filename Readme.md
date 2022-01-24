@@ -2,13 +2,6 @@
 
 I am **Abhishek Rathi** , a sophomore at IIIT Ranchi
 
-<!--
-
-**abhishekrathi16/abhishekrath16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
 
 - 🔭 I’m currently working on IIIT Ranchi TAP Cell Website
 - 🌱 I’m currently learning Advanced topics of React and getting started with Backend Development
@@ -27,8 +20,6 @@ Here are some ideas to get you started:
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Iamabhishek16)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhishekrathi16)
 [![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@rathiabhishek53)
-
-
 
 ### 💻 Languages &amp; Tools I use:
 
@@ -54,10 +45,8 @@ Here are some ideas to get you started:
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekrathi16&layout=compact&hide=matlab,Jupyter%20Notebook)](https://github.com/abhishekrathi16/netflix-clone)
-
 
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekrathi16&show_icons=true&theme=synthwavecount_private=true)
 
-<!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishekrathi16) -->
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishekrathi16)
