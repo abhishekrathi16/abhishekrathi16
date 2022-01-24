@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -56,4 +58,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekrathi16&layout=compact&hide=matlab,Jupyter%20Notebook)](https://github.com/abhishekrathi16/netflix-clone)
 
 
-![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekrathi16&show_icons=true&theme=synthwavecount_private=true)
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekrathi16&show_icons=true&theme=synthwavecount_private=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishekrathi16)
