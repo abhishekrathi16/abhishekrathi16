@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on Google Developer Student Club- IIIT Ranchi WebSite 
+- 🔭 I’m currently working on IIIT Ranchi TAP Cell Website
 - 🌱 I’m currently learning Advanced topics of React and getting started with Backend Development
-- 👯 I’m looking to collaborate on MERN Stack-based Web Development Projects / WordPress Development 
+- 👯 I’m looking to collaborate on MERN Stack-based Web Development Projects 
 - 🤔 I’m looking forward to learn blockchain development
 - 💬 Ask me about anything ranging from anime to goth (yeah, the ghosts and demons stuff)
 
