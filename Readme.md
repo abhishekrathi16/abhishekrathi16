@@ -60,4 +60,4 @@ Here are some ideas to get you started:
 
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekrathi16&show_icons=true&theme=synthwavecount_private=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishekrathi16)
+<!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishekrathi16) -->
