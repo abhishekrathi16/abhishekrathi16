@@ -41,9 +41,7 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak-singh5302&layout=compact&hide=matlab,Jupyter%20Notebook)](https://github.com/abhishekrathi16/netflix-clone)
-
-![My Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishekrath16)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekrathi16&layout=compact&hide=matlab,Jupyter%20Notebook)](https://github.com/abhishekrathi16/netflix-clone)
 
 
 ![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekrathi16&show_icons=true&theme=synthwavecount_private=true)
