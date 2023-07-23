@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **Abhishek Rathi** , a sophomore at IIIT Ranchi
+I am **Abhishek Rathi** , a senior at IIIT Ranchi
 
 
 - 🔭 I’m currently working on IIIT Ranchi TAP Cell Website
